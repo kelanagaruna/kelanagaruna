@@ -1,4 +1,4 @@
-## ASBADU KHAPRAS
+## KELANA GARUNA
 
 <!--
 **asbadukhapras/asbadukhapras** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
